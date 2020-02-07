@@ -1,5 +1,5 @@
 # Anthos Config Management
-
+#
 This repository contains example repos for [Anthos Config Management][1].
 
 To use these examples, install the Anthos Config Management operator on your
